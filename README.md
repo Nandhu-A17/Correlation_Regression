@@ -1,3 +1,9 @@
+NAME: A NANDEESWARI
+
+REG NO: 212224220068
+
+DEPT:B.TECH IT
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -24,6 +30,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
-
 # Output 
+![Screenshot 2025-05-20 134529](https://github.com/user-attachments/assets/c6b0cbef-0479-4032-9d4d-f1a747714d32)
+
+Result:
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
+
